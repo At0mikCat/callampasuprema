@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Scenes/HongoGigante.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Scenes/HongoGigante_BuiltData.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Scenes/Luz.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Images/4a314b8d3d2150ef959a792624ed9fa9_5197215771528147681.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Images/4a314b8d3d2150ef959a792624ed9fa9_5197215771528147681_Mat.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Scenes/Referencia.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/P_HongoGigante/Content/Scenes/Blocking.umap",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/_GENERATED/Alumno/Box_A683367A.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/HongoGigante.umap",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Emissive.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/_GENERATED/Alumno/Torus_AE351B8E.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/_GENERATED/Alumno/Torus_9D61DE04.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/LuzBasica.umap",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Colors.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Red.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Blue.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Brown.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Materials/M_Orange.uasset",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/Blocking.umap",
+				"C:/Users/Alumno/Downloads/P_HongoGigante/P_HongoGigante/Content/Scenes/Referencia.umap",
+				"C:/Users/GAMER/Downloads/P_HongoGigante/Content/Scenes/HongoGigante.umap",
+				"C:/Users/GAMER/Downloads/P_HongoGigante/Content/Scenes/Blocking.umap",
+				"C:/Users/GAMER/Downloads/P_HongoGigante/Content/Scenes/Luz.umap",
+				"C:/Users/GAMER/Downloads/P_HongoGigante/Content/Scenes/LuzBasica.umap",
+				"C:/Users/GAMER/Downloads/P_HongoGigante/Content/Scenes/Referencia.umap"
+			]
+		}
+	]
+}
